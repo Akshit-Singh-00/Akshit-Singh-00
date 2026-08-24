@@ -8,10 +8,6 @@
   I build practical web products, explore AI-powered experiences, and sharpen my problem-solving skills one challenge at a time.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshit-Singh-00&show_icons=true&hide_border=true&theme=transparent" alt="Akshit's GitHub statistics" />
-</p>
-
 ## About me
 
 - Building full-stack applications that solve practical problems
